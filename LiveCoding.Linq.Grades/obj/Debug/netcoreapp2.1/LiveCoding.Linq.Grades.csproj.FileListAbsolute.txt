@@ -1,0 +1,11 @@
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\bin\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.deps.json
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\bin\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.runtimeconfig.json
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\bin\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.runtimeconfig.dev.json
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\bin\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.dll
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\bin\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.pdb
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.csprojAssemblyReference.cache
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.csproj.CoreCompileInputs.cache
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.AssemblyInfoInputs.cache
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.AssemblyInfo.cs
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.dll
+C:\Projekte\Htl\LiveCoding.Linq.Grades\LiveCoding.Linq.Grades\obj\Debug\netcoreapp2.1\LiveCoding.Linq.Grades.pdb
